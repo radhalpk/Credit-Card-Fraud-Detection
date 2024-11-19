@@ -8,8 +8,6 @@
 ### 2. Project Focus
 The project aims to identify fraudulent transactions using machine learning techniques, providing a robust solution for real-time fraud detection.
 
-### GitHub Repository
-[Credit Card Fraud Detection GitHub Repository](https://github.com/Eswar021/Credit-Card-Fraud-Detection)
 
 ---
 
